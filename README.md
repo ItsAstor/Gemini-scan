@@ -10,6 +10,6 @@ Add your api key to the py file
 
 dowloand the py file 
 
-get your api key on the https://aistudio.google.com/api-keys
+get your api key at https://aistudio.google.com/api-keys
 
-put your api key to the py file
+put your api key to your py file
