@@ -13,3 +13,5 @@ dowloand the py file
 get your api key at https://aistudio.google.com/api-keys
 
 put your api key to your py file
+
+you can view your API usage here: https://aistudio.google.com/rate-limit?timeRange=last-28-days&project=gen-lang-client-0635633076
