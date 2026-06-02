@@ -1,8 +1,8 @@
 # Gemini-scan
 
-install python
+install python https://www.python.org/downloads/
 
-pip install pyautogui pygetwindow keyboard google-genai pillow  
+insert this into the cmd: pip install pyautogui pygetwindow keyboard google-genai pillow  
 
 python -m pip install pyautogui pygetwindow keyboard google-genai pillow
 
