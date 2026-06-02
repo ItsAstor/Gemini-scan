@@ -2,7 +2,7 @@
 
 install python https://www.python.org/downloads/
 
-insert this into the cmd: pip install pyautogui pygetwindow keyboard google-genai pillow  
+install in cmd: pip install pyautogui pygetwindow keyboard google-genai pillow 
 
 python -m pip install pyautogui pygetwindow keyboard google-genai pillow
 
